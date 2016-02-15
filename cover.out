@@ -1,0 +1,16 @@
+mode: set
+github.com\farazfazli\etl\main.go:12.13,22.2 9 0
+github.com\farazfazli\etl\main.go:24.20,26.2 1 1
+github.com\farazfazli\etl\main.go:45.30,49.66 4 0
+github.com\farazfazli\etl\main.go:57.2,57.11 1 0
+github.com\farazfazli\etl\main.go:49.66,55.3 5 0
+github.com\farazfazli\etl\main.go:60.62,67.33 6 0
+github.com\farazfazli\etl\main.go:75.2,77.32 2 0
+github.com\farazfazli\etl\main.go:87.2,88.25 2 0
+github.com\farazfazli\etl\main.go:67.33,73.3 5 0
+github.com\farazfazli\etl\main.go:77.32,79.21 2 0
+github.com\farazfazli\etl\main.go:79.21,84.4 4 0
+github.com\farazfazli\etl\main.go:91.64,100.34 5 0
+github.com\farazfazli\etl\main.go:111.2,113.21 2 0
+github.com\farazfazli\etl\main.go:100.34,102.21 2 0
+github.com\farazfazli\etl\main.go:102.21,108.4 2 0
